@@ -1,6 +1,6 @@
 <h1>Hi, I'm Darryl! <br/><a href="https://github.com/joshmadakor1">Machine Learning Engineer</a>, <a href="https://www.linkedin.com/in/darryl-a-joyner-bb053a16/">Data Scientist</a>, <a href="https://www.youtube.com/@datasciencewithdjchannel">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 University of Michigan Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -25,6 +25,15 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+
+<h2>📺 Certifications</h2>
+  - [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD)
+ 
+  
+  - [Python Programming 3 University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/N3FD2MJ6UD9K)
+  - [Google Data Analytics Certificate](https://www.credly.com/badges/ca1141bd-8119-4343-8d63-ffe3920382f3?source=linked_in_profile)
+  - [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/hNhiaeqGqzVDqxEZKjVJAZdV)
 
 <h2> 🤳 Connect with me:</h2>
 
