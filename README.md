@@ -5,7 +5,7 @@
 - <b>Natural Language Processing</b>
   - [Text Classification Model - Reconizing Sarcasm in Social Media](https://github.com/DarrylJoyner0422/TextClassification.git)
 </b>
- <b>Supervised Learning</b>
+- <b>Supervised Learning</b>
   - [Regression and Classification](https://github.com/DarrylJoyner0422/Regression1.git)
 </b>
 <h2>📺 Popular YouTube Videos</h2>
@@ -19,17 +19,11 @@
 
 
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 
 <h2>📺 Certifications</h2>
 </b>
-  - [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD).
- 
+  
   - [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD)
   - [Python Programming 3 University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/N3FD2MJ6UD9K)
   - [Google Data Analytics Certificate](https://www.credly.com/badges/ca1141bd-8119-4343-8d63-ffe3920382f3?source=linked_in_profile)
