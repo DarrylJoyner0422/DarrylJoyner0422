@@ -11,10 +11,6 @@
 
 
 
-
-</b>
-- <b>Supervised Learning</b>
-  - [Regression and Classification](https://github.com/DarrylJoyner0422/Regression1.git)
 </b>
 <h2>📺 Popular YouTube Videos</h2>
 
