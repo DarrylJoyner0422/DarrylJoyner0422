@@ -27,9 +27,10 @@
 
 
 <h2>📺 Certifications</h2>
-  - [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD)
+</b>
+  - [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD).
  
-  
+  - [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD)
   - [Python Programming 3 University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/N3FD2MJ6UD9K)
   - [Google Data Analytics Certificate](https://www.credly.com/badges/ca1141bd-8119-4343-8d63-ffe3920382f3?source=linked_in_profile)
   - [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/hNhiaeqGqzVDqxEZKjVJAZdV)
