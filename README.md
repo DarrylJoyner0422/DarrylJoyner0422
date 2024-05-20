@@ -5,6 +5,14 @@
 - <b>Natural Language Processing</b>
   - [Text Classification Model - Reconizing Sarcasm in Social Media](https://github.com/DarrylJoyner0422/TextClassification.git)
 </b>
+ 
+- <b>Supervised Machine Learning</b>
+  - [Regression and Classification](https://github.com/DarrylJoyner0422/Regression1.git)
+
+
+
+
+</b>
 - <b>Supervised Learning</b>
   - [Regression and Classification](https://github.com/DarrylJoyner0422/Regression1.git)
 </b>
