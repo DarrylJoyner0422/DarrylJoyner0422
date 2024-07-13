@@ -2,7 +2,7 @@
 
 # Hi, I'm Darryl Joyner! 👋
 
-[![Machine Learning Engineer](https://img.shields.io/badge/-Machine%20Learning%20Engineer-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/joshmadakor1)
+[![Machine Learning Engineer](https://img.shields.io/badge/-Machine%20Learning%20Engineer-blue?style=flat-square&logo=python&logoColor=white)](https://www.linkedin.com/in/darryl-a-joyner-bb053a16/)
 [![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-green?style=flat-square&logo=databricks&logoColor=white)](https://www.linkedin.com/in/darryl-a-joyner-bb053a16/)
 [![YouTuber](https://img.shields.io/badge/-YouTuber-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@datasciencewithdjchannel)
 
