@@ -8,8 +8,13 @@
  
 - <b>Supervised Machine Learning</b>
   - [Regression and Classification](https://github.com/DarrylJoyner0422/Regression1.git)
+</b>
 
+<h2>👨‍💻 University of Michigan Academic Record:</h2>
 
+- <b>Masters Applied Data Science Record</b>
+  - [Transcript](https://github.com/DarrylJoyner0422/Darryl-Joyner-UMICH-Academics.git)
+</b>
 
 </b>
 <h2>📺 Popular YouTube Videos</h2>
