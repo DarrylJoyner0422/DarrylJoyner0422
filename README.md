@@ -1,23 +1,24 @@
 <h1>Hi, I'm Darryl Joyner! <br/><a href="https://github.com/joshmadakor1">Machine Learning Engineer</a>, <a href="https://www.linkedin.com/in/darryl-a-joyner-bb053a16/">Data Scientist</a>, <a href="https://www.youtube.com/@datasciencewithdjchannel">YouTuber</a></h1>
 
-<h2>👨‍💻 University of Michigan Projects:</h2>
+# Hi, I'm Darryl Joyner! 👋
 
-- <b>Natural Language Processing</b>
-  - [Text Classification Model - Reconizing Sarcasm in Social Media](https://github.com/DarrylJoyner0422/TextClassification.git)
-</b>
- 
-- <b>Supervised Machine Learning</b>
-  - [Regression and Classification](https://github.com/DarrylJoyner0422/Regression1.git)
-</b>
+[![Machine Learning Engineer](https://img.shields.io/badge/-Machine%20Learning%20Engineer-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/joshmadakor1)
+[![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-green?style=flat-square&logo=databricks&logoColor=white)](https://www.linkedin.com/in/darryl-a-joyner-bb053a16/)
+[![YouTuber](https://img.shields.io/badge/-YouTuber-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@datasciencewithdjchannel)
 
-<h2>👨‍💻 University of Michigan Academic Record:</h2>
+## 👨‍💻 University of Michigan Projects
 
-- <b>Masters Applied Data Science Record</b>
-  - [Transcript](https://github.com/DarrylJoyner0422/Darryl-Joyner-UMICH-Academics.git)
-</b>
+### Natural Language Processing
+- [Text Classification Model - Recognizing Sarcasm in Social Media](https://github.com/DarrylJoyner0422/TextClassification.git)
 
-</b>
-<h2>📺 Popular YouTube Videos</h2>
+### Supervised Machine Learning
+- [Regression and Classification](https://github.com/DarrylJoyner0422/Regression1.git)
+
+## 📚 University of Michigan Academic Record
+
+- [Masters Applied Data Science Transcript](https://github.com/DarrylJoyner0422/Darryl-Joyner-UMICH-Academics.git)
+
+## 📺 Popular YouTube Videos
 
 - [Vector Calculus and Gradient Descent](https://youtu.be/n8gVSPCduOE?si=R3mh07OS7xJolIKl)
 - [Econometrics in Data Science](https://youtu.be/X2_7zEGoIaU?si=mAnDELG04zBEQiXS)
@@ -26,38 +27,44 @@
 - [Analyzing Financial Statements in Data Science](https://youtu.be/g_fDZeyYNUc?si=f_Mp93dCphRHCLuA)
 - [Granger Causality For Data Science](https://youtu.be/OL_TVd_1BKk?si=x9Jrj6VuenbpDRg8)
 
+## 🏅 Certifications
+
+- [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD)
+- [Python Programming 3 University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/N3FD2MJ6UD9K)
+- [Google Data Analytics Certificate](https://www.credly.com/badges/ca1141bd-8119-4343-8d63-ffe3920382f3?source=linked_in_profile)
+- [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/hNhiaeqGqzVDqxEZKjVJAZdV)
+
+## 🤳 Connect with me
+
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@datasciencewithdjchannel/videos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darryl-a-joyner-bb053a16/)
 
 
+🔭 Current Work
+I'm currently working on:
 
+Natural Language Processing Algorithm to assess impact of Federal Reserve announcements on major economic indicators
+NLP Algorithm to assess the impact of major news events on the S&P 500
 
-<h2>📺 Certifications</h2>
-</b>
-  
-  - [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/K2VQJ2T4RKYD)
-  - [Python Programming 3 University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/N3FD2MJ6UD9K)
-  - [Google Data Analytics Certificate](https://www.credly.com/badges/ca1141bd-8119-4343-8d63-ffe3920382f3?source=linked_in_profile)
-  - [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/hNhiaeqGqzVDqxEZKjVJAZdV)
+🌱 I'm currently learning
+SAFe 6.0 Scrum Master Certification
+Machine Learning Analytics
 
-<h2> 🤳 Connect with me:</h2>
+👯 I'm looking to collaborate on
+Artificial Intelligence Human In the Loop metrics and analysis
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+🤔 I'm looking for help with
+Finding great books on machine learning and neuroscience
 
+💬 Ask me about
+Music therapy
 
-[youtube]: https://www.youtube.com/@datasciencewithdjchannel/videos
-[linkedin]: https://www.linkedin.com/in/darryl-a-joyner-bb053a16/
+📫 How to reach me
+darrylbpoagent@gmail.com
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 Pronouns
+He, Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Fun fact
+I have a spotted fish named Peeks
 -->
