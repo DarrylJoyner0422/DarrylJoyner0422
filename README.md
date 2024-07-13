@@ -1,5 +1,3 @@
-<h1>Hi, I'm Darryl Joyner! <br/><a href="https://github.com/joshmadakor1">Machine Learning Engineer</a>, <a href="https://www.linkedin.com/in/darryl-a-joyner-bb053a16/">Data Scientist</a>, <a href="https://www.youtube.com/@datasciencewithdjchannel">YouTuber</a></h1>
-
 # Hi, I'm Darryl Joyner! 👋
 
 [![Machine Learning Engineer](https://img.shields.io/badge/-Machine%20Learning%20Engineer-blue?style=flat-square&logo=python&logoColor=white)](https://www.linkedin.com/in/darryl-a-joyner-bb053a16/)
