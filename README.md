@@ -31,6 +31,7 @@
 - [Python Programming 3 University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/N3FD2MJ6UD9K)
 - [Google Data Analytics Certificate](https://www.credly.com/badges/ca1141bd-8119-4343-8d63-ffe3920382f3?source=linked_in_profile)
 - [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/hNhiaeqGqzVDqxEZKjVJAZdV)
+- [SAFe Fundamentals](https://coursera.org/share/e789d582d9d41004201cfde9d4332572)
 
 ## 🤳 Connect with me
 
